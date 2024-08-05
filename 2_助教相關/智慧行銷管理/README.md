@@ -52,9 +52,14 @@ https://docs.google.com/forms/d/e/1FAIpQLSdi8KQDi26Am0heXtbbiGgHMvVCzyOUi5M71U85
 4. 成績紀錄模板(非必要，僅提供參考)
 https://docs.google.com/spreadsheets/d/1ktLyZXUmB0REI3BHJJmijTX1ANXPAYcx/edit?usp=sharing&ouid=103617994359370310744&rtpof=true&sd=true
 5. 老師週報打分標準
- 
-	老師打分方式
-第C組-掀動饞商機-A
+   A+ 95
+   A  92
+   A- 90
+   B+ 88
+   B  85
+   B- 82
+6. 老師的打分方式
+第C組-掀動饞商機-A    (第C組 組別分為90)
 曾9、楊 9.2g、徐 8.8R、張 8.8r	→後面的英文字母直接打在備註即可
 或是
-陳某 48.6R →4:報告的順序，8.6:成績，後面的英文字母直接打在備註即可
+陳某 48.6R → 4:報告的順序，8.6:成績，後面的英文字母直接打在備註即可
