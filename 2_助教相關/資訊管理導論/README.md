@@ -68,7 +68,7 @@ https://docs.google.com/presentation/d/1MWLH2SqoY9lMcS2QG0sd77oaU2QXin9p/edit?us
 3. 報告做得不好的，可以跟該組講修正方向，修正後再上傳
 4. 組間評分表以及心得單模板
 https://docs.google.com/document/d/11zOYQ5lVscicLtRYAXony2KH12dEb-lm/edit?usp=sharing&ouid=103617994359370310744&rtpof=true&sd=true
-5. 小組互評表單(模板) 
+5. 小組互評表單(模板)  (需詢問老師有沒有其他的問卷要一起施測的)
 https://docs.google.com/forms/d/e/1FAIpQLSdi8KQDi26Am0heXtbbiGgHMvVCzyOUi5M71U859UG37JbPzw/viewform?usp=sharing
 
 ## 學期結束
