@@ -28,4 +28,6 @@
 ![](https://hackmd.io/_uploads/HJxlrfcjH2.png)  
  
 8. 引用圖、表 - >參考資料->交互參照(僅標籤及數字)  
-![](https://hackmd.io/_uploads/rJSuG9iSh.png)  
+![](https://hackmd.io/_uploads/rJSuG9iSh.png)
+
+9. 自己繪製的圖片，要使用**emf**格式，**Ppt令存新檔** -> **存檔格式** ->Windows 增強型中繼檔(.emf)格式
